@@ -6,7 +6,7 @@ This project analyzes NYC Airbnb rental prices through the year 2025. It starts 
 ---
 
 # Research Questions
-Through this project, I aim to answer the following:
+Through this project I aim to answer the following:
 - Are there seasonal patterns in Airbnb pricing?
 - How are Airbnb prices distributed across NYC boroughs?
 - How are Airbnb prices distributed across Manhattan, specifically?
