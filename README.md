@@ -94,7 +94,8 @@ from inside_airbnb import data_loading, preprocessing, analysis, visualization
 
 ## Data Source
 
-Inside Airbnb NYC dataset (January-October 2025)
+Inside Airbnb NYC dataset (January-December 2025)
 - Website: http://insideairbnb.com
 - Data includes listings, reviews, and calendar data
+
 
