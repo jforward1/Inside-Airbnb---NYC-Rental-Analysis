@@ -14,8 +14,7 @@ This project analyzes NYC Airbnb rental prices through the year 2025. It starts 
 │       ├── analysis.py         # Statistical analysis functions
 │       └── visualization.py   # Plotting functions
 ├── notebooks/                  # Jupyter notebooks
-│   ├── InsideAirbnbAnalysis.ipynb  # Original notebook
-│   └── example_refactored_analysis.py  # Example using refactored code
+│   └── InsideAirbnbAnalysis.ipynb  # Original notebook
 ├── data/
 │   ├── raw/                    # Raw CSV files (gitignored)
 │   └── processed/              # Processed data (gitignored)
